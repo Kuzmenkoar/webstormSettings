@@ -15,5 +15,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>.feature</mask>
+    <mask>duck.js</mask>
   </component>
 </application>

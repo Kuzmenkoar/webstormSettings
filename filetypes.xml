@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" approved="true" type="JSP" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping ext="pcss" type="PLAIN_TEXT" />
       <removed_mapping ext="tag" approved="true" type="JSP" />
     </extensionMap>
   </component>

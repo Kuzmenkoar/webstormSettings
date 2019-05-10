@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>.feature</mask>
     <mask>duck.js</mask>
+    <mask>jsx</mask>
   </component>
 </application>

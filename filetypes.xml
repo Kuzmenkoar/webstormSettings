@@ -1,10 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="tag" type="HTML" />
-      <removed_mapping ext="tag" approved="true" type="JSP" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pcss" type="PLAIN_TEXT" />
       <mapping pattern="PlayerInfo" type="Vue.js" />
       <removed_mapping ext="tag" approved="true" type="JSP" />

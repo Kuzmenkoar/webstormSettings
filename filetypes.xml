@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping ext="tag" type="HTML" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />

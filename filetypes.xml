@@ -8,6 +8,7 @@
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pcss" type="PLAIN_TEXT" />
+      <mapping pattern="useYupValidationResolver" type="TypeScript" />
       <mapping pattern="PlayerInfo" type="Vue.js" />
       <removed_mapping ext="tag" approved="true" type="JSP" />
     </extensionMap>

@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spec.cy.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,5 +16,7 @@
     <mask>.feature</mask>
     <mask>duck.js</mask>
     <mask>jsx</mask>
+    <mask>spec.cy</mask>
+    <mask>*spec.cy.js</mask>
   </component>
 </application>
